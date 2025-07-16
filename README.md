@@ -1,47 +1,48 @@
-### 👋 Hey, I'm Lithish Kumar
+### 👋 Hey there, I'm Lithish Kumar
 
-I'm a full-stack and systems developer from India with a strong interest in cybersecurity, open-source, and cross-platform tools. I enjoy building desktop and web apps that are clean, performant, and useful.
-
----
-
-### 💡 What I Build & Explore
-- **Cross‑platform desktop tools**: Creator of **Lith**, a Weechat relay client in C++ with mobile and desktop support :contentReference[oaicite:1]{index=1}  
-- **Frontend & UI**: Responsive web components using HTML, CSS, Bootstrap, JavaScript  
-- **Backend & APIs**: Node.js, Express.js, MongoDB, MySQL  
-- **Utilities & Scripting**: Python, Go, C++ — automations and custom CLI tools  
+I'm a developer from India exploring the world of **cybersecurity**, **web development**, and **open-source software**. I'm passionate about learning by building — whether it's clean front-end UI, useful backend tools, or contributing to real-world projects.
 
 ---
 
-### 🚀 Current Goals
-- Contribute to beginner-friendly **Python open-source** projects (aiming for GSoC 2026)  
-- Strengthen my knowledge in **cybersecurity, Linux, and backend systems**  
-- Scale Lith further and explore contributions to similar cross-platform tools  
+### 🔧 Tech Stack
+
+- **Languages:** Python · C++ · JavaScript · Java · Go
+- **Web:** HTML · CSS · Bootstrap · Node.js · Express.js · Vue.js
+- **Databases:** MongoDB · MySQL
+- **Tools:** Git · GitHub · Kafka · Linux Terminal
 
 ---
 
-### 📌 Featured Projects
-- **🔧 Lith** – A multi-platform Weechat relay client written in modern C++ (desktop + mobile) :contentReference[oaicite:2]{index=2}  
-- **Frontend components** – QR code module, recipe page UI, polished responsive web examples  
-- **Utility scripts** – Mini tools in Python, C++, and Node.js showcased in personal repos  
+### 🚀 Learning Goals
+
+- Contribute to beginner-friendly **Python open-source** projects  
+- Explore **backend systems** and **Linux scripting**  
+- Work toward participating in **Google Summer of Code (GSoC) 2026**  
+- Keep improving my **UI/UX** skills and learn more about **security tools**
 
 ---
 
-### ⚙️ Tech Toolkit
-C++ · Python · Node.js · Express · MongoDB · MySQL · Go · Java · HTML · CSS · Bootstrap · JavaScript · Git
+### 📌 Projects to Check Out
+
+- 🔗 [QR Code Component](https://github.com/Lithish-7/qr-code-component-main) — A responsive, cleanly styled QR UI
+- 🍲 [Recipe Page](https://github.com/Lithish-7/recipe-page-main) — A simple, mobile-friendly recipe layout
+- 🛠️ Personal Projects — Python/C++/Node.js utilities in other repos like [`project`](https://github.com/Lithish-7/project) and [`NODE.JS`](https://github.com/Lithish-7/NODE.JS)
 
 ---
 
 ### 🌱 About Me
-- I thrive on building functional, clean‑code projects  
-- I value detailed documentation and good software design  
-- I’m always open to collaboration, mentorship, and new learnings  
+
+- 📚 Self-taught with strong curiosity and drive  
+- 🧠 Love clean code, open-source culture, and solving practical problems  
+- 🤝 Open to collaboration, mentorship, and feedback
 
 ---
 
-### 📬 Connect With Me
+### 📫 Let’s Connect
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lithish-kumar-b18b25331/)  
-- ✉️ *[Your Email]* (add yours here)  
+- ✉️ Email: *add your email here*
 
 ---
 
-Thanks for stopping by — feel free to explore my code, suggest improvements, or connect for projects! 🚀
+Thanks for visiting my profile — feel free to explore my code or reach out! 🚀
