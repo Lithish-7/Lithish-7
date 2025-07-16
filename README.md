@@ -1,62 +1,47 @@
 ### 👋 Hey, I'm Lithish Kumar
 
-I'm a curious and passionate full-stack developer from India with a growing interest in cybersecurity and open-source software. I enjoy building clean, functional web applications and exploring how things work under the hood.
+I'm a full-stack and systems developer from India with a strong interest in cybersecurity, open-source, and cross-platform tools. I enjoy building desktop and web apps that are clean, performant, and useful.
 
 ---
 
-### 💡 What I Do
-- 💻 Frontend Development using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**
-- 🛠️ Backend Projects with **Node.js**, **Express**, **MongoDB**, and **MySQL**
-- 🐍 Python scripting for utilities and automation
-- 🧠 Constantly learning new tools like **Go**, **Java**, and **Kafka**
+### 💡 What I Build & Explore
+- **Cross‑platform desktop tools**: Creator of **Lith**, a Weechat relay client in C++ with mobile and desktop support :contentReference[oaicite:1]{index=1}  
+- **Frontend & UI**: Responsive web components using HTML, CSS, Bootstrap, JavaScript  
+- **Backend & APIs**: Node.js, Express.js, MongoDB, MySQL  
+- **Utilities & Scripting**: Python, Go, C++ — automations and custom CLI tools  
 
 ---
 
 ### 🚀 Current Goals
-- Contribute to open-source projects that use Python, JavaScript, or Node.js
-- Build a strong foundation in Linux, security, and backend architecture
-- Prepare for **Google Summer of Code (GSoC) 2026** by contributing to beginner-friendly orgs
+- Contribute to beginner-friendly **Python open-source** projects (aiming for GSoC 2026)  
+- Strengthen my knowledge in **cybersecurity, Linux, and backend systems**  
+- Scale Lith further and explore contributions to similar cross-platform tools  
 
 ---
 
-### 📌 Projects to Check Out
-- 🎨 [QR Code Component](https://litheesh-kumar.github.io/css-practice/qr-code-component-main/) – A responsive and stylish UI component  
-- 🍲 [Recipe Page](https://litheesh-kumar.github.io/css-practice/recipe-page-main) – A clean, mobile-first recipe layout  
-- 🛠️ Utility scripts in Python, C++, and Node.js – Explore my `project` and `NODE.JS` repos
+### 📌 Featured Projects
+- **🔧 Lith** – A multi-platform Weechat relay client written in modern C++ (desktop + mobile) :contentReference[oaicite:2]{index=2}  
+- **Frontend components** – QR code module, recipe page UI, polished responsive web examples  
+- **Utility scripts** – Mini tools in Python, C++, and Node.js showcased in personal repos  
 
 ---
 
-### ⚙️ Tools & Technologies I Work With
-HTML · CSS · JavaScript · Vue.js · Node.js · Express.js · MongoDB · MySQL · Python · C++ · Go · Java · Kafka · Git · GitHub
+### ⚙️ Tech Toolkit
+C++ · Python · Node.js · Express · MongoDB · MySQL · Go · Java · HTML · CSS · Bootstrap · JavaScript · Git
 
 ---
 
-### 🌱 A Little More About Me
-- I enjoy learning by building
-- I value clean, well-documented code
-- I’m always open to collaboration, mentorship, and new ideas
+### 🌱 About Me
+- I thrive on building functional, clean‑code projects  
+- I value detailed documentation and good software design  
+- I’m always open to collaboration, mentorship, and new learnings  
 
 ---
 
-### 📬 Let’s Connect
-- 📎 [LinkedIn](https://www.linkedin.com/in/lithish-kumar-b18b25331/)
-- ✉️ Email: *[your-email@example.com]*
+### 📬 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lithish-kumar-b18b25331/)  
+- ✉️ *[Your Email]* (add yours here)  
 
 ---
 
-Thanks for visiting my profile — let’s build something awesome together! 🚀
-
-<!--
-**Lithish-7/Lithish-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by — feel free to explore my code, suggest improvements, or connect for projects! 🚀
