@@ -45,7 +45,6 @@ HTML · CSS · JavaScript · Vue.js · Node.js · Express.js · MongoDB · MySQL
 ---
 
 Thanks for visiting my profile — let’s build something awesome together! 🚀
-## Hi there 👋
 
 <!--
 **Lithish-7/Lithish-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
