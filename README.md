@@ -41,7 +41,7 @@ I'm a developer from India exploring the world of **cybersecurity**, **web devel
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lithish-kumar-b18b25331/)  
-- ✉️ Email: *add your email here*
+- ✉️ Email: klithish60@gmail.com
 
 ---
 
