@@ -17,16 +17,15 @@ I'm a developer from India exploring the world of **cybersecurity**, **web devel
 
 - Contribute to beginner-friendly **Python open-source** projects  
 - Explore **backend systems** and **Linux scripting**  
-- Work toward participating in **Google Summer of Code (GSoC) 2026**  
 - Keep improving my **UI/UX** skills and learn more about **security tools**
 
 ---
 
 ### 📌 Projects to Check Out
 
-- 🔗 [QR Code Component](https://github.com/Lithish-7/qr-code-component-main) — A responsive, cleanly styled QR UI
-- 🍲 [Recipe Page](https://github.com/Lithish-7/recipe-page-main) — A simple, mobile-friendly recipe layout
-- 🛠️ Personal Projects — Python/C++/Node.js utilities in other repos like [`project`](https://github.com/Lithish-7/project) and [`NODE.JS`](https://github.com/Lithish-7/NODE.JS)
+- 🔗 https://github.com/Lithish-7/CyberGuard
+- 🔗 https://github.com/Lithish-7/LinkLock
+- 🔗 https://github.com/Lithish-7/Vulnerability-Scanner-for-Python-Code
 
 ---
 
