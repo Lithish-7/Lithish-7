@@ -1,64 +1,59 @@
-# 👋 Hi, I’m Lithish (Phantrex)  
+# 👋 Hey, I’m Lithish (Phantrex)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lithish-7&style=flat-square&color=blue)  
-![Followers](https://img.shields.io/github/followers/Lithish-7?style=social)  
-![Stars](https://img.shields.io/github/stars/Lithish-7?style=social)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team-blue?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-Threat%20Detection-red?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
 ---
 
 ## 🔐 About Me  
-Aspiring **Cybersecurity Engineer / SOC Analyst** with a strong passion for **Blue Team defense**, **log analysis**, and **Python automation**.  
+Aspiring **Cybersecurity Engineer / SOC Analyst** with a strong passion for **Blue Team defense, log analysis, and Python automation**.  
 
-- 🛡️ Focus: Threat Detection, Incident Response, Log Correlation  
-- 🐍 Developer of Python tools for security automation & monitoring  
-- 🔧 Familiar with SIEM (Splunk / ELK), Wireshark, and Linux hardening  
-- 🌱 Always learning — forensics, malware analysis, reverse engineering  
+- 🛡️ Focus: Threat Detection, Incident Response, Security Monitoring  
+- 🐍 Building security tools & scripts in Python  
+- 🔧 Familiar with SIEM (Splunk, ELK), Wireshark, Linux hardening  
+- 🌱 Exploring malware analysis, forensics & reverse engineering  
 
 ---
 
 ## 🚀 Featured Projects  
 
-- **[Vulnerability-Scanner-for-Python-Code](https://github.com/Lithish-7/Vulnerability-Scanner-for-Python-Code)**  
-  *Static analyzer that flags insecure patterns in Python (e.g. hardcoded secrets, eval misuse, SQL injection risks).*  
+### [🔎 Vulnerability-Scanner-for-Python-Code](https://github.com/Lithish-7/Vulnerability-Scanner-for-Python-Code)  
+*Static analyzer that flags insecure patterns in Python (e.g. hardcoded secrets, eval misuse, SQL injection risks).*  
 
-- **[CyberSentry-Pro](https://github.com/Lithish-7/CyberSentry-Pro)**  
-  *Real-time activity monitoring toolkit for Blue Team ops. Detects SSH brute-force attempts, sensitive access, and anomalies.*  
+### [🛡️ CyberSentry-Pro](https://github.com/Lithish-7/CyberSentry-Pro)  
+*Real-time SOC-style monitoring tool for detecting SSH brute force and suspicious login activity.*  
 
-- **[HoneyWatch](https://github.com/Lithish-7/HoneyWatch)**  
-  *Python honeypot & attack visualizer that logs and analyzes real-world intrusion attempts in real time.*  
+### [🎯 HoneyWatch](https://github.com/Lithish-7/HoneyWatch)  
+*A Python honeypot that logs attacker activity and visualizes intrusion attempts in real time.*  
 
 ---
 
 ## 🛠 Tech Stack  
 
-**Languages**: Python, C++, JavaScript, Java, Go  
-**Web**: Node.js, Express.js, Vue.js, HTML/CSS  
-**Databases**: MongoDB, MySQL  
-**Security & Tools**: Splunk, ELK, Wireshark, Linux, Git, Kafka  
-
----
-
-## 📊 GitHub Stats  
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Lithish-7&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithish-7&layout=compact&theme=tokyonight)  
+**Languages & Scripting:** Python, C++, JavaScript, Java, Go  
+**Security & Tools:** Splunk, ELK, Wireshark, Linux, IDS/IPS  
+**Web & Backend:** Node.js, Express.js, Vue.js  
+**Databases:** MongoDB, MySQL  
 
 ---
 
 ## 🎯 2025 Goals  
 
-- Contribute to **open-source Blue Team projects**  
-- Earn **CompTIA Security+ / Google Cybersecurity Certificate**  
-- Build more **Python-based security automation tools**  
-- Sharpen skills in **incident response & digital forensics**  
+- Contribute to **open-source security tools**  
+- Build advanced **Python automation projects** for security monitoring  
+- Earn **CompTIA Security+** and **Google Cybersecurity Certificate**  
+- Strengthen skills in **incident response, malware analysis, and forensics**  
 
 ---
 
-## 🌐 Connect  
+## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lithishxsec/)  
-📧 **klithish60@gmail.com**  
+📧 **klithish60@gmail.com**
 
 ---
 
-✨ *Thanks for visiting my profile — check out my projects, drop a ⭐ if you like them, and let’s connect!*  
+✨ *Thanks for visiting my profile — check out my projects, drop a ⭐ if you like them, and let’s collaborate!*  
