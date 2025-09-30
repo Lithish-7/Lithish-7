@@ -1,58 +1,70 @@
-# 👋 Hi, I’m **Lithish (Phantrex)**  
-**Aspiring Cybersecurity Engineer | Blue Team Enthusiast | Python Dev**
+# 👋 Hey, I’m Lithish Kumar (Phantrex)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lithish-7&style=flat-square&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/Lithish-7?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Lithish-7?style=social)
 
 ---
 
-## 🧭 About Me  
-I’m a self-driven security and software enthusiast on a journey to defend systems and build tools that make security easier. I thrive on solving challenges—whether in capture-the-flag contests, logging puzzles, or infrastructure misconfigurations.
-
-- 🔍 Deep interest in **Blue Team / Defensive Security**, incident response, threat detection & log analytics  
-- 💻 Proficient in **Python**, and working knowledge of **C++ / JavaScript / Go**  
-- 🛠 Building & experimenting with security tools, honeypots, log scanners, and automation scripts  
-- 🌱 Continuously learning new domains: malware analysis, forensics, reverse engineering  
-- 🧩 I believe in “learn by doing” — open-source, collaboration, and sharing knowledge  
+## 🔐 About Me  
+- 🛡️ Aspiring **Cybersecurity Engineer / SOC Analyst**  
+- 🔍 Focused on **Blue Team Defense, Log Analysis, and Threat Detection**  
+- 🐍 Building **Python automation tools** for security monitoring  
+- ⚡ Exploring SIEM, digital forensics, and packet analysis (Wireshark)  
+- 🌱 Passionate about learning, open-source, and knowledge sharing  
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects  
 
-| Project | Description | Tech / Tools |
-|---|---|---|
-| **CyberGuard** | A security tool to monitor and alert on suspicious system behavior | Python, system logs, alarm rules |
-| **LinkLock** | Web app/browser extension for secure link checking and phishing detection | JS, HTML, backend API |
-| **Vulnerability-Scanner-for-Python-Code** | Static analyzer to find risky patterns (e.g. `eval`, insecure imports) in Python files | AST parsing, regex, Python |
-| **CyberSentry-Pro** | A real-time monitoring tool that watches for SSH brute force, culled anomalies, suspicious activities | Python, log streaming |
-| **HoneyWatch** | Scripted honeypot service that logs attackers’ behavior & visualizes attack events | Python, sockets, visualization |
+### 🚨 [CyberGuard](https://github.com/Lithish-7/CyberGuard)  
+🔹 Security monitoring tool to detect suspicious behavior in system logs  
+**Tech:** Python, Regex, Log Parsing  
 
-> 🎯 *Pinned projects reflect my current focus and strength. I love feedback, pull requests & ideas—let’s collaborate!*
+### 🔗 [LinkLock](https://github.com/Lithish-7/LinkLock)  
+🔹 Browser tool to detect and block phishing links in real-time  
+**Tech:** JavaScript, HTML/CSS, API  
 
----
-
-## 🛠 Tech Stack & Tools  
-
-**Languages:** Python, JavaScript, C++, Go  
-**Web / Backend:** Node.js, Express.js, Vue.js  
-**Databases:** MongoDB, MySQL  
-**Tools & Systems:** Linux, Git / GitHub, Kafka, Terminal / Shell  
-**Security domains I use / explore:** Logging & SIEM, packet analysis (Wireshark), static & dynamic analysis, intrusion detection  
+### 🛡️ [CyberSentry-Pro](https://github.com/Lithish-7/CyberSentry-Pro)  
+🔹 Detects SSH brute-force attempts & suspicious logins  
+**Tech:** Python, SIEM-style log streaming  
 
 ---
 
-## 🎯 Goals & What’s Next  
+## ⚙️ Tech Stack  
 
-- Build and contribute to open-source Blue Team / defensive security tools  
-- Explore *malware analysis, reverse engineering*, and *memory forensics*  
-- Participate in CTFs, bug bounties, and community security projects  
-- Collaborate, mentor, and grow alongside other cybersecurity enthusiasts  
-
----
-
-## 🤝 Let’s Connect  
-
-- LinkedIn: [in/lithishxsec](https://www.linkedin.com/in/lithishxsec)  
-- Email: `klithish60@gmail.com`  
-- Contributions, issues, and ideas are always welcome — open to feedback, discussions, and partnership  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)  
 
 ---
 
-**Thanks for stopping by — feel free to explore my repos, clone code, or drop a line!**  
+## 📊 GitHub Stats  
+
+![Lithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lithish-7&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithish-7&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals for 2025  
+- ✅ Contribute to open-source security projects  
+- 📈 Sharpen **SOC Analyst & Blue Team skills**  
+- 📚 Earn **CompTIA Security+ / Google Cybersecurity Cert**  
+- 🧑‍💻 Build advanced **Python security automation tools**  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lithishxsec/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lithish-7)  
+📧 Email: **klithish60@gmail.com**
+
+---
+
+✨ *Thanks for visiting my profile! If you like my work, consider giving a ⭐ on the repos you find useful.*  
