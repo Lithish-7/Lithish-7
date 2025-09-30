@@ -1,3 +1,6 @@
+  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2125f485-5e76-4c22-96e0-a616a13f9315" />
+
+
 # 👋 Hi, I’m Lithish (Phantrex)  
 
 <p align="center">
