@@ -1,63 +1,64 @@
-# 👋 Hey, I’m Lithish (Phantrex)  
+# 👋 Hi, I’m Lithish (Phantrex)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lithish-7&style=flat-square&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/Lithish-7?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/Lithish-7?style=social)
+![Followers](https://img.shields.io/github/followers/Lithish-7?style=social)  
+![Stars](https://img.shields.io/github/stars/Lithish-7?style=social)  
 
 ---
 
 ## 🔐 About Me  
+Aspiring **Cybersecurity Engineer / SOC Analyst** with a strong passion for **Blue Team defense**, **log analysis**, and **Python automation**.  
 
-I’m a passionate cybersecurity & software enthusiast building tools, solving puzzles, and defending systems. My journey leans strongly toward **Blue Team / defensive security**, where I get to play the role of protector — detecting, responding, and preventing attacks.
-
-- 🛡️ Focus Areas: **Log Analysis**, Threat Detection, Incident Response  
-- 🐍 Tech: Python (primary), with experience in scripting, automation, and system tooling  
-- 🔧 Tools & Topics: SIEM (Splunk / ELK), packet analysis (Wireshark), Linux hardening, security detection  
-- 🌱 Always learning: malware analysis, memory forensics, reverse engineering  
-
----
-
-## ⭐ Featured Projects  
-
-| Project | What it does | Technologies |
-|---|---|---|
-| **CyberGuard** | A monitoring tool to detect suspicious behavior in system logs | Python, Regex, System Logs |
-| **LinkLock** | A tool or browser component for checking / blocking malicious links | JavaScript, APIs, Security Filters |
-| **CyberSentry-Pro** | Monitors logs & detects SSH brute force and anomalous connections | Python, real-time log processing |
+- 🛡️ Focus: Threat Detection, Incident Response, Log Correlation  
+- 🐍 Developer of Python tools for security automation & monitoring  
+- 🔧 Familiar with SIEM (Splunk / ELK), Wireshark, and Linux hardening  
+- 🌱 Always learning — forensics, malware analysis, reverse engineering  
 
 ---
 
-## 🛠 Technical Stack  
+## 🚀 Featured Projects  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)  
+- **[Vulnerability-Scanner-for-Python-Code](https://github.com/Lithish-7/Vulnerability-Scanner-for-Python-Code)**  
+  *Static analyzer that flags insecure patterns in Python (e.g. hardcoded secrets, eval misuse, SQL injection risks).*  
+
+- **[CyberSentry-Pro](https://github.com/Lithish-7/CyberSentry-Pro)**  
+  *Real-time activity monitoring toolkit for Blue Team ops. Detects SSH brute-force attempts, sensitive access, and anomalies.*  
+
+- **[HoneyWatch](https://github.com/Lithish-7/HoneyWatch)**  
+  *Python honeypot & attack visualizer that logs and analyzes real-world intrusion attempts in real time.*  
+
+---
+
+## 🛠 Tech Stack  
+
+**Languages**: Python, C++, JavaScript, Java, Go  
+**Web**: Node.js, Express.js, Vue.js, HTML/CSS  
+**Databases**: MongoDB, MySQL  
+**Security & Tools**: Splunk, ELK, Wireshark, Linux, Git, Kafka  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Lithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lithish-7&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithish-7&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Lithish-7&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithish-7&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🎯 2025 Goals  
 
-- Contribute to open-source security / blue team projects  
-- Deepen expertise in **incident response**, forensics, and malware analysis  
-- Get industry-recognized certifications (Security+, etc.)  
-- Build advanced Python tools for security automation & detection  
+- Contribute to **open-source Blue Team projects**  
+- Earn **CompTIA Security+ / Google Cybersecurity Certificate**  
+- Build more **Python-based security automation tools**  
+- Sharpen skills in **incident response & digital forensics**  
 
 ---
 
-## 🔗 Let’s Connect  
+## 🌐 Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lithishxsec/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lithish-7)  
-📧 Email: **klithish60@gmail.com**
+📧 **klithish60@gmail.com**  
 
-> ✨ Thanks for stopping by — feel free to explore my work, file issues or pull requests, and let’s collaborate!
+---
 
+✨ *Thanks for visiting my profile — check out my projects, drop a ⭐ if you like them, and let’s connect!*  
