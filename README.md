@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm Lithish Kumar
+### 👋 Hey there,
 
 I'm a developer from India exploring the world of **cybersecurity**, **web development**, and **open-source software**. I'm passionate about learning by building — whether it's clean front-end UI, useful backend tools, or contributing to real-world projects.
 
