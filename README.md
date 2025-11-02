@@ -1,59 +1,66 @@
 <p align="center">
-  <img width="1536" height="1024" alt="Cyber Career Map banner" src="https://github.com/user-attachments/assets/2125f485-5e76-4c22-96e0-a616a13f9315" />
+  <img width="1536" height="1024" alt="Cybersecurity Banner" src="https://github.com/user-attachments/assets/2125f485-5e76-4c22-96e0-a616a13f9315" />
 </p>
 
 # 👋 Hi, I’m Lithish (Phantrex)
 
-**Aspiring Cybersecurity Engineer / SOC Analyst** focused on **blue-team defense, log analysis, and Python automation**.
+**SOC Analyst | Threat Hunting | Detection Engineering | Python Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lithishxsec/)
-[![Email](https://img.shields.io/badge/Email-klithish60%40gmail.com-informational)](mailto:klithish60@gmail.com)
-[![Portfolio: Cyber Career Map](https://img.shields.io/badge/Portfolio-Cyber%20Career%20Map-0a0)](https://lithish-7.github.io/cyber-career-map/)
-![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen)
+🔹 Passionate about detecting, analyzing, and defending against cyber threats.  
+🔹 Building open-source tools to help others learn and protect networks.  
+🔹 Focused on continuous learning and sharing community-driven resources.
 
 ---
 
 ## 🔐 About Me
-- 🛡️ **Focus:** Threat Detection, Incident Response, Security Monitoring  
-- 🐍 **Python:** building security scripts & tooling  
-- 🔧 **Tools:** SIEM (Splunk, ELK), Wireshark, Linux hardening  
-- 🔭 **Exploring:** Malware analysis, DFIR & reverse engineering
+- 🧠 **Focus:** Blue Team operations, threat detection engineering, and security automation  
+- 🧰 **Skills:** Log analysis • SIEM (Splunk/ELK) • Threat hunting • Incident response • Linux & network forensics  
+- 🐍 **Coding:** Python scripting for detection logic, automation pipelines, and enrichment tooling  
+- ☁️ **Cloud Security:** Familiar with AWS, Azure, and container security fundamentals  
+- 🌱 **Currently exploring:** Detection-as-code, DFIR automation, and adversary emulation with Atomic Red Team  
 
 ---
 
 ## 🚀 Featured Projects
-- **🔎 Vulnerability-Scanner-for-Python-Code** — Static analyzer for insecure patterns (e.g., `eval`, SQL injection, hardcoded secrets).  
-  → https://github.com/Lithish-7/Vulnerability-Scanner-for-Python-Code
-
-- **🛡️ CyberSentry-Pro** — SOC-style monitor detecting SSH brute-force and suspicious login activity in near real time.  
-  → https://github.com/Lithish-7/CyberSentry-Pro
-
-- **🎯 HoneyWatch** — Python honeypot capturing intrusion attempts and visualizing attacker behavior.  
-  → https://github.com/Lithish-7/HoneyWatch
-
-- **🌐 Cyber Career Map (portfolio)** — Community project mapping roles → skills → certs → resources (open to PRs).  
-  → https://lithish-7.github.io/cyber-career-map/
+| Project | Description |
+|----------|--------------|
+| [🛡️ CyberSentry-Pro](https://github.com/Lithish-7/CyberSentry-Pro) | Real-time SOC monitoring for SSH brute-force & suspicious logins |
+| [🎯 HoneyWatch](https://github.com/Lithish-7/HoneyWatch) | Python honeypot that records intrusion attempts and visualizes attacker behavior |
+| [🔎 Vulnerability Scanner for Python](https://github.com/Lithish-7/Vulnerability-Scanner-for-Python-Code) | Static analyzer to detect insecure patterns (SQLi, eval, secrets) |
+| [🌐 Cyber Career Map](https://lithish-7.github.io/cyber-career-map/) | Interactive map of cybersecurity roles → skills → certs → resources |
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Stack
 **Languages:** Python • C++ • JavaScript • Java • Go  
-**Security:** Splunk • ELK • Wireshark • Linux • IDS/IPS  
-**Web/Backend:** Node.js • Express.js • Vue.js  
-**Databases:** MongoDB • MySQL
+**Security:** Splunk • ELK • Wireshark • Suricata • Linux • IDS/IPS  
+**Web:** Node.js • Express.js • Vue.js  
+**Databases:** MongoDB • MySQL  
 
 ---
 
-## 🎯 2025 Goals
-- Ship useful **blue-team tools** in public  
-- Level up **IR & threat hunting**  
-- Earn **Security+** / **Google Cybersecurity**  
-- Explore **malware analysis** & **forensics**
+## 🎯 2026 Goals
+- 🧠 Advance into **Senior SOC Analyst / Detection Engineer** role  
+- 🔧 Build and open-source **automated threat detection & response tools**  
+- 🎓 Earn **CompTIA CySA+** or **GIAC GCDA / GCIH** certification  
+- 🔍 Contribute to **CTI sharing / open-threat-intel** projects  
+- ☁️ Deepen skills in **Cloud Security (AWS & Azure)**  
+- 🧩 Continue exploring **Malware Analysis, DFIR & Automation pipelines**
 
 ---
 
-## 🌐 Connect
-- LinkedIn: https://www.linkedin.com/in/lithishxsec/  
-- Email: **klithish60@gmail.com**
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lithish-7&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lithish-7&theme=github-dark-blue&hide_border=true" />
+</p>
 
-> ⭐ If you like my projects, please star them or open an issue—happy to collaborate!
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lithishxsec/)
+📧 **klithish60@gmail.com**
+
+---
+
+✨ *Thanks for visiting my profile! Check out my projects, drop a ⭐ if you like them, and let’s collaborate on something awesome.*
