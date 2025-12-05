@@ -49,11 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lithish-7&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lithish-7&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
 
